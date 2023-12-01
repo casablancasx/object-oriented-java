@@ -1,12 +1,8 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
 O
 src/model/entities/Product.java,0\b\0ba505ed9c29881eec8aac2ac48135d58217c998
 Y
 )src/model/entities/enums/OrderStatus.java,d\3\d38c1ee691fc749e65a3bd63753d837e8d554fe7
-Q
-!src/model/entities/OrdemItem.java,5\1\51c53dcc3db30edd72709eda951f110f3b498157
 N
 src/model/entities/Client.java,e\e\ee743e4cf635fef97daa7c168e8b0ff715fb8cdc
 M
