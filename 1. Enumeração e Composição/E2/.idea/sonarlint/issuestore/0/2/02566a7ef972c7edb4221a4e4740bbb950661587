@@ -1,0 +1,19 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(²Î¥ú8Ó¼¬±Â1
+G	java:S106"+Replace this use of System.out by a logger.(Ôç¢×8Ó¼¬±Â1
+G	java:S106"+Replace this use of System.out by a logger.(Ş…ºù8Ö¼¬±Â1
+G	java:S106"+Replace this use of System.out by a logger.(¿Õ‹8×¼¬±Â1
+G	java:S106"+Replace this use of System.out by a logger.(®¡¡©8Ø¼¬±Â1
+G	java:S106"+Replace this use of System.out by a logger.(ú·Éè8Ø¼¬±Â1
+F	java:S106"+Replace this use of System.out by a logger.(ÈæÁp8Ø¼¬±Â1
+L	java:S106#"+Replace this use of System.out by a logger.(ÌË›ûÿÿÿÿ8Ù¼¬±Â1
+L	java:S106$"+Replace this use of System.out by a logger.(Ü¦†ãúÿÿÿÿ8Ù¼¬±Â1
+L	java:S106&"+Replace this use of System.out by a logger.(»Ûı‰ûÿÿÿÿ8Ú¼¬±Â1
+L	java:S106("+Replace this use of System.out by a logger.(†úÀúÿÿÿÿ8Ú¼¬±Â1
+L	java:S106/"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Û¼¬±Â1
+G	java:S1060"+Replace this use of System.out by a logger.(×â– 8Û¼¬±Â1
+L	java:S1061"+Replace this use of System.out by a logger.(ÍÕ§§ùÿÿÿÿ8Ò³Í±Â1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ËâÒ±Â1
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8ËâÒ±Â1
