@@ -1,0 +1,17 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(¤Ã’éûÿÿÿÿ8¹ÇÆ­Â1
+L	java:S106"+Replace this use of System.out by a logger.(Ú®´¿ıÿÿÿÿ8»ÇÆ­Â1
+G	java:S106"+Replace this use of System.out by a logger.(Ôç¢×8»ÇÆ­Â1
+L	java:S106"+Replace this use of System.out by a logger.(²÷‡‡ùÿÿÿÿ8»ÇÆ­Â1
+L	java:S106"+Replace this use of System.out by a logger.( ôøıÿÿÿÿ8¼ÇÆ­Â1
+G	java:S106"+Replace this use of System.out by a logger.(ÄÔº®8¼ÇÆ­Â1
+G	java:S106"+Replace this use of System.out by a logger.(¢Ö«·8½ÇÆ­Â1
+L	java:S106"+Replace this use of System.out by a logger.(›¨°úşÿÿÿÿ8½ÇÆ­Â1
+G	java:S106 "+Replace this use of System.out by a logger.(½‚Šì8½ÇÆ­Â1
+L	java:S106""+Replace this use of System.out by a logger.(½²ü®ùÿÿÿÿ8½ÇÆ­Â1
+G	java:S106-"+Replace this use of System.out by a logger.(Éôµø8¿ÇÆ­Â1
+L	java:S1062"+Replace this use of System.out by a logger.(Êª‰ùÿÿÿÿ8¿ÇÆ­Â1
+L	java:S1063"+Replace this use of System.out by a logger.(ÖÁìˆüÿÿÿÿ8ÀÇÆ­Â1
+L	java:S1064"+Replace this use of System.out by a logger.(³ÅğŠşÿÿÿÿ8ÀÇÆ­Â1
+\
+java:S1128	"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8–úƒ®Â1
