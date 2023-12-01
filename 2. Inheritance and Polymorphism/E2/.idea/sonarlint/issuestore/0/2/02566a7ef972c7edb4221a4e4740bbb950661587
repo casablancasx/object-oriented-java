@@ -1,0 +1,19 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Name: " 3 times.(Ôç¢×8Ğâã´Â1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "Price: " 3 times.(õ‹ƒ8Ğâã´Â1
+L	java:S106"+Replace this use of System.out by a logger.(ñğ¿ùûÿÿÿÿ8Ôâã´Â1
+L	java:S106"+Replace this use of System.out by a logger.(§ØáÁøÿÿÿÿ8×âã´Â1
+G	java:S106"+Replace this use of System.out by a logger.(Ã¦¶·8×âã´Â1
+G	java:S106"+Replace this use of System.out by a logger.(Ôç¢×8Øâã´Â1
+G	java:S106"+Replace this use of System.out by a logger.(õ‹ƒ8Øâã´Â1
+G	java:S106"+Replace this use of System.out by a logger.(Ôç¢×8Ùâã´Â1
+G	java:S106!"+Replace this use of System.out by a logger.(õ‹ƒ8Úâã´Â1
+L	java:S106#"+Replace this use of System.out by a logger.(ˆô–¼ıÿÿÿÿ8Úâã´Â1
+G	java:S106*"+Replace this use of System.out by a logger.(Ôç¢×8Ûâã´Â1
+G	java:S106,"+Replace this use of System.out by a logger.(õ‹ƒ8Ûâã´Â1
+G	java:S106."+Replace this use of System.out by a logger.(”Èêˆ8Ûâã´Â1
+L	java:S1064"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Üâã´Â1
+L	java:S1065"+Replace this use of System.out by a logger.( šÊûÿÿÿÿ8Üâã´Â1
+L	java:S1067"+Replace this use of System.out by a logger.(æıĞûÿÿÿÿ8Ô³ç´Â1
