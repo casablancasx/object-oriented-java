@@ -3,7 +3,6 @@ package application;
 import entities.Product;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
@@ -16,7 +15,14 @@ public class Program {
         list.add(new Product("Tablet", 350.50));
         list.add(new Product("HD Case", 80.90));
 
-        list.sort(new MyComparator());
+        Comparator<Product> comp = new Comparator<Product>() {
+            @Override
+            public int compare(Product o1, Product o2) {
+                return o1.getName().toUpperCase().compareTo(o2.getName().toUpperCase());
+            }
+        };
+
+        list.sort(comp);
         for (Product p : list) {
             System.out.println(p);
         }
