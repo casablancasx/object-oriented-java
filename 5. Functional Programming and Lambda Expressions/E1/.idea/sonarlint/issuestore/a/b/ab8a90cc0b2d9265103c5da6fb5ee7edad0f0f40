@@ -1,2 +1,4 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8ó¹”ÑÅ1
+L	java:S106"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8ì“›ÑÅ1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8î“›ÑÅ1
