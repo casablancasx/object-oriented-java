@@ -7,5 +7,3 @@ G
 src/db/DB.java,d\3\d305f6a1dcd7efedcf9636b0609242aab50a2ab4
 L
 src/application/Program.java,a\b\ab8a90cc0b2d9265103c5da6fb5ee7edad0f0f40
-M
-src/application/db.properties,e\0\e0c75b3082521065add9f23ffd0931b82788e482
